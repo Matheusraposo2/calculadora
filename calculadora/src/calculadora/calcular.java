@@ -25,6 +25,7 @@ public class calcular {
 			break;
 		case "-":
 			JOptionPane.showMessageDialog(null, dNum1 - dNum2);
+			break;
 		case "/":
 			if(dNum2 !=0) {
 				JOptionPane.showMessageDialog(null, dNum1 / dNum2);
